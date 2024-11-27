@@ -1,0 +1,5 @@
+site_name: Your Company, Inc
+site_url: https://example.com/docs
+theme:
+  name: material
+docs_dir: docs
